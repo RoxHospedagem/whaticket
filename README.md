@@ -44,7 +44,7 @@ V 6.7.7
 Instalador atualizado, versao NodeJS 20:
 
 ```
-https://github.com/launcherbr/instalador.git
+https://github.com/Roxhospedagem/instalador.git
 ```
 Notas Rápidas: </br>
 Requer servidor Ubuntu 20.04 LTS com ao menos 4 vcore e 8gb de ram.</br>
