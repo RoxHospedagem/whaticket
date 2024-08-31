@@ -29,12 +29,7 @@ https://control.peramix.com/?affid=14
 🆕 Adicionado nova ABA Cadastrar Empresa</br>
 📋 Add Opção Plano Interno</br>
 
-Caso queira fazer uma contribuição, serei muito grato.</br>
-Chave Pix, aleatória:
 
-```
-efd3110c-e572-42b5-a6cb-5984a8811ad2
-```
 </br>
 
 Biblioteca Baileys Atualizada:</br>
@@ -44,7 +39,7 @@ V 6.7.7
 Instalador atualizado, versao NodeJS 20:
 
 ```
-https://github.com/Roxhospedagem/instalador.git
+https://github.com/RoxHospedagem/instalador.git
 ```
 Notas Rápidas: </br>
 Requer servidor Ubuntu 20.04 LTS com ao menos 4 vcore e 8gb de ram.</br>
